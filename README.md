@@ -10,6 +10,10 @@
 * [🥑 Case Study #3 - Foodie-Fi](https://8weeksqlchallenge.com/case-study-3/)
 * [💰 Case Study #4 - Data Bank](https://8weeksqlchallenge.com/case-study-4/)
 
-In project, I used Jupyter Notebook with SQLite library to run code.
 
-You can see my solutions above and comment with me your other solutions.
+In project, I used Jupyter Notebook with SQLite library to run code. 
+
+I'm happy if you see my solutions above and comment with me your other solutions.
+
+
+
