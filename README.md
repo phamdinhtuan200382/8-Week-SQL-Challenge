@@ -1,4 +1,4 @@
-
+[![View Main Folder](https://img.shields.io/badge/View-Main_Folder-971901?)](https://github.com/phamdinhtuan200382/8-Week-SQL-Challenge/tree/main/Case%20Studies)
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/phamdinhtuan200382)
 
 # The 8 Week SQL Challenge 
