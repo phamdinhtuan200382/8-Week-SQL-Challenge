@@ -4,7 +4,7 @@
 # The 8 Week SQL Challenge 
 [8-Week SQL Challenge](https://8weeksqlchallenge.com) is proudly brought to you by the Data With Danny virtual data apprenticeship program to celebrate the launch of the Serious SQL course!
 
-## 📕  Table Of Contents
+## Table Of Case Studies
 * [🍜 Case Study #1 - Danny's Diner](https://8weeksqlchallenge.com/case-study-1/)
 * [🍕 Case Study #2 - Pizza Runner](https://8weeksqlchallenge.com/case-study-2/)
 * [🥑 Case Study #3 - Foodie-Fi](https://8weeksqlchallenge.com/case-study-3/)
